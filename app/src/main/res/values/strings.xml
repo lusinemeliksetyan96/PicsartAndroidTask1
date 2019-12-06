@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PicsartAndroidTask1</string>
+    <string name="accept_btn_txt">accept</string>
+    <string name="text">Text</string>
+</resources>
